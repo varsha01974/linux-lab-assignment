@@ -1,0 +1,21 @@
+Link Analysis Report
+
+Original File:
+original.txt
+
+Hard Link:
+hardlink.txt
+
+Soft Link:
+softlink.txt
+
+Observations:
+
+1. The hard link and original file shared the same inode number.
+
+2. The symbolic link had a different inode number.
+
+3. After deleting the original file, the hard link continued to work.
+
+4. After deleting the original file, the symbolic link became broken because it pointed to a file that no longer existed.
+

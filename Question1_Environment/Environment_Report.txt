@@ -1,0 +1,28 @@
+Environment Report
+
+Username: <output of whoami>
+Groups: <output of id>
+Shell: <output of echo $SHELL>
+Working Directory: <output of pwd>
+Files: <brief summary of ls -la>
+Network Connectivity: Successfully pinged google.com.
+
+
+
+Environment Report
+
+Username: roja
+Groups: uid=1000(roja) gid=1000(roja) groups=1000(roja),...
+Shell: /bin/bash
+Working Directory: /home/roja
+Files: Environment_Report.txt
+Network Connectivity: Ping to google.com was successful.
+Environment Report
+
+Username:
+Groups:
+Shell:
+Working Directory:
+Files:
+Network Connectivity:
+

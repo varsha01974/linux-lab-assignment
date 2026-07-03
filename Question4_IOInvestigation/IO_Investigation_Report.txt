@@ -1,0 +1,21 @@
+I/O Investigation Report
+
+Commands Executed:
+1. lsof
+2. ulimit -a
+3. ls > output.txt
+4. ls abc 2> error.txt
+5. ls . abc > all.txt 2>&1
+
+Observations:
+
+1. The lsof command listed open files and processes.
+
+2. The ulimit command displayed system resource limits.
+
+3. Standard output was redirected successfully to output.txt.
+
+4. Error messages were redirected successfully to error.txt.
+
+5. Both standard output and standard error were redirected to all.txt.
+

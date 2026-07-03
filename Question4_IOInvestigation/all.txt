@@ -1,0 +1,13 @@
+ls: cannot access 'abc': No such file or directory
+.:
+Link_Analysis_Report.txt
+Project_Workspace_Report.txt
+all.txt
+backup
+docs
+error.txt
+hardlink.txt
+lsof_output.txt
+output.txt
+softlink.txt
+src

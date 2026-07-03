@@ -1,0 +1,28 @@
+Storage Assessment Report
+
+Commands Executed:
+1. lsblk
+2. mount
+3. df -h
+4. du -sh *
+5. df -i
+
+Observations:
+
+1. The lsblk command displayed the available storage devices and partitions.
+
+2. The mount command displayed all mounted file systems.
+
+3. The df -h command showed disk usage in a human-readable format.
+
+4. The du -sh * command displayed the size of files and directories.
+
+5. The df -i command displayed inode usage for the file systems.
+
+Recommendations:
+
+- Regularly monitor disk usage.
+- Remove unnecessary files to free up storage.
+- Archive old files if required.
+- Monitor inode usage to prevent file system issues.
+
