@@ -1,0 +1,1 @@
+I ran df -h and df 1 to observe file system utilization and inode capacity. The Isblk command was attempted but is not fully supported in this Windows Git Bash environment.

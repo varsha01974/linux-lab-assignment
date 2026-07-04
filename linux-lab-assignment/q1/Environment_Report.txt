@@ -1,0 +1,6 @@
+I ran whoami and it displayed my current username.
+The groups command attempted to list user groups but couldn't resolve the group ID.
+The echo $SHELL command showed that I am using the bash shell.
+The pwd command printed my current directory path.
+The ls -la command listed the files in the directory.
+Finally, the ping command attempted to verify network connectivity but was blocked by Windows administrative privileges.
